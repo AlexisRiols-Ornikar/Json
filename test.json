@@ -1,5 +1,5 @@
 {
    "username": ["Mickael Knight"],
-   "username": ["Mickael", "itemB"],
-   "lastname": ["Knight", "itemD"]
+   "firstname": ["Mickael"],
+   "lastname": ["Knight"]
 }
