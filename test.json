@@ -1,6 +1,6 @@
 {
-   "username": ["Michael Knight"],
-   "first name": ["Michael"]
-   "Last name": ["Knight"]
-   "Birth date": ["01/02/1986"]
+   "UserName": ["Michael Knight"],
+   "firstName": ["Michael"]
+   "LastName": ["Knight"]
+   "BirthDate": ["01/02/1986"]
 }
