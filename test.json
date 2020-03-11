@@ -1,4 +1,6 @@
 {
-   "categoryA": ["itemA", "itemB"],
-   "categoryB": ["itemC", "itemD"]
+   "username": ["Michael Knight"],
+   "first name": ["Michael"]
+   "Last name": ["Knight"]
+   "Birth date": ["01/02/1986"]
 }
